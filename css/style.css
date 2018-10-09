@@ -6,6 +6,16 @@ http://www.tooplate.com/view/2080-minimax
 
 */
 
+/* html {
+  overflow: hidden;
+  height: 100%;
+}
+body {
+  height: 100%;
+  overflow: auto;
+} */
+
+
 body
 	{
 		background: #fff;
@@ -352,7 +362,7 @@ img:hover {
   text-align: center;
 }
 #contact h2 {
-  border-right: 2px solid #f2af00;
+  /* border-right: 2px solid #f2af00; */
   display: inline-block;
   padding: 10px 20px 10px 10px;
   margin-bottom: 60px;
